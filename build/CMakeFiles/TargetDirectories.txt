@@ -1,3 +1,0 @@
-/home/kro/Github repo/Udacity_Cpp_Project2/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
-/home/kro/Github repo/Udacity_Cpp_Project2/CppND-System-Monitor/build/CMakeFiles/monitor.dir
-/home/kro/Github repo/Udacity_Cpp_Project2/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
