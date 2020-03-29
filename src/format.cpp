@@ -29,5 +29,5 @@ string Format::ElapsedTime(long seconds) {
     ss << std::setw(2) << std::setfill('0') << seconds;
     time = time + ":" + ss.str();
 
-    return string(); 
+    return time; 
 }
